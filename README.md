@@ -1,1 +1,1 @@
-e-learning application with type script
+e-learning application with Typescript
